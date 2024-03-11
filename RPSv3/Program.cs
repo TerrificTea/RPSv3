@@ -1,5 +1,3 @@
-﻿using System.Diagnostics.Contracts;
-
 namespace RPSv3
 {
     internal class Program
